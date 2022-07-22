@@ -1,0 +1,13 @@
+.pics {
+  height: 100%;
+}
+.pics .left {
+  height: 100%;
+  width: 200rpx;
+}
+.pics .left view {
+  height: 120rpx;
+  line-height: 120rpx;
+  text-align: center;
+}
+

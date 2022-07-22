@@ -1,0 +1,43 @@
+.home {
+  width: 750rpx;
+  height: 380rpx;
+}
+.home ._img {
+  width: 100%;
+  height: 100%;
+}
+.nav {
+  display: flex;
+}
+.nav .nav_item {
+  flex: 1;
+  text-align: center;
+}
+.nav .nav_item view {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 60%;
+  background-color: #b50e03;
+  line-height: 120rpx;
+  font-size: 50rpx;
+  color: #fff;
+  margin: 20rpx auto;
+}
+.nav .nav_item .icon-tupian {
+  font-size: 45rpx;
+}
+.goodall {
+  background-color: #eee;
+  overflow: hidden;
+  margin-top: 10rpx;
+}
+.goodall .goodtitle {
+  text-align: center;
+  line-height: 80rpx;
+  color: #b50e03;
+  font-size: 45rpx;
+  letter-spacing: 40rpx;
+  margin: 14rpx auto;
+  background-color: #fff;
+}
+

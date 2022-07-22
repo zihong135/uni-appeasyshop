@@ -1,0 +1,1 @@
+<view style="background-color:#eee;"><goodlist vue-id="576f0adc-1" goodslist="{{goodslist}}" bind:__l="__l"></goodlist><block wx:if="{{flag}}"><view style="text-align:center;">------已经到底了------</view></block></view>
